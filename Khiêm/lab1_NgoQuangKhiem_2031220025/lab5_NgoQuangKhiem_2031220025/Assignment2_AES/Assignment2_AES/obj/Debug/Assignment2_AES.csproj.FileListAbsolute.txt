@@ -1,0 +1,10 @@
+D:\cse306\lab5_NgoQuangKhiem_2031220025\Assignment2_AES\Assignment2_AES\bin\Debug\Assignment2_AES.exe.config
+D:\cse306\lab5_NgoQuangKhiem_2031220025\Assignment2_AES\Assignment2_AES\bin\Debug\Assignment2_AES.exe
+D:\cse306\lab5_NgoQuangKhiem_2031220025\Assignment2_AES\Assignment2_AES\bin\Debug\Assignment2_AES.pdb
+D:\cse306\lab5_NgoQuangKhiem_2031220025\Assignment2_AES\Assignment2_AES\obj\Debug\Assignment2_AES.csproj.AssemblyReference.cache
+D:\cse306\lab5_NgoQuangKhiem_2031220025\Assignment2_AES\Assignment2_AES\obj\Debug\Assignment2_AES.Form1.resources
+D:\cse306\lab5_NgoQuangKhiem_2031220025\Assignment2_AES\Assignment2_AES\obj\Debug\Assignment2_AES.Properties.Resources.resources
+D:\cse306\lab5_NgoQuangKhiem_2031220025\Assignment2_AES\Assignment2_AES\obj\Debug\Assignment2_AES.csproj.GenerateResource.cache
+D:\cse306\lab5_NgoQuangKhiem_2031220025\Assignment2_AES\Assignment2_AES\obj\Debug\Assignment2_AES.csproj.CoreCompileInputs.cache
+D:\cse306\lab5_NgoQuangKhiem_2031220025\Assignment2_AES\Assignment2_AES\obj\Debug\Assignment2_AES.exe
+D:\cse306\lab5_NgoQuangKhiem_2031220025\Assignment2_AES\Assignment2_AES\obj\Debug\Assignment2_AES.pdb

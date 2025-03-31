@@ -1,0 +1,10 @@
+D:\cse306\lab6_NgoQuangKhiem_2031220025\Assignmnet3_SHA256\Assignmnet3_SHA256\bin\Debug\Assignmnet3_SHA256.exe.config
+D:\cse306\lab6_NgoQuangKhiem_2031220025\Assignmnet3_SHA256\Assignmnet3_SHA256\bin\Debug\Assignmnet3_SHA256.exe
+D:\cse306\lab6_NgoQuangKhiem_2031220025\Assignmnet3_SHA256\Assignmnet3_SHA256\bin\Debug\Assignmnet3_SHA256.pdb
+D:\cse306\lab6_NgoQuangKhiem_2031220025\Assignmnet3_SHA256\Assignmnet3_SHA256\obj\Debug\Assignmnet3_SHA256.csproj.AssemblyReference.cache
+D:\cse306\lab6_NgoQuangKhiem_2031220025\Assignmnet3_SHA256\Assignmnet3_SHA256\obj\Debug\Assignmnet3_SHA256.Form1.resources
+D:\cse306\lab6_NgoQuangKhiem_2031220025\Assignmnet3_SHA256\Assignmnet3_SHA256\obj\Debug\Assignmnet3_SHA256.Properties.Resources.resources
+D:\cse306\lab6_NgoQuangKhiem_2031220025\Assignmnet3_SHA256\Assignmnet3_SHA256\obj\Debug\Assignmnet3_SHA256.csproj.GenerateResource.cache
+D:\cse306\lab6_NgoQuangKhiem_2031220025\Assignmnet3_SHA256\Assignmnet3_SHA256\obj\Debug\Assignmnet3_SHA256.csproj.CoreCompileInputs.cache
+D:\cse306\lab6_NgoQuangKhiem_2031220025\Assignmnet3_SHA256\Assignmnet3_SHA256\obj\Debug\Assignmnet3_SHA256.exe
+D:\cse306\lab6_NgoQuangKhiem_2031220025\Assignmnet3_SHA256\Assignmnet3_SHA256\obj\Debug\Assignmnet3_SHA256.pdb

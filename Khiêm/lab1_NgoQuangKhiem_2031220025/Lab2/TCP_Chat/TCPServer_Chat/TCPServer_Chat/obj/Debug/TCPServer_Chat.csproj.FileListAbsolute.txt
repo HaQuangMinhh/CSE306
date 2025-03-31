@@ -1,0 +1,10 @@
+D:\cse306\lab2_NgoQuangKhiem_2031220025\TCPServer_Chat\TCPServer_Chat\bin\Debug\TCPServer_Chat.exe.config
+D:\cse306\lab2_NgoQuangKhiem_2031220025\TCPServer_Chat\TCPServer_Chat\bin\Debug\TCPServer_Chat.exe
+D:\cse306\lab2_NgoQuangKhiem_2031220025\TCPServer_Chat\TCPServer_Chat\bin\Debug\TCPServer_Chat.pdb
+D:\cse306\lab2_NgoQuangKhiem_2031220025\TCPServer_Chat\TCPServer_Chat\obj\Debug\TCPServer_Chat.csproj.AssemblyReference.cache
+D:\cse306\lab2_NgoQuangKhiem_2031220025\TCPServer_Chat\TCPServer_Chat\obj\Debug\TCPServer_Chat.Form1.resources
+D:\cse306\lab2_NgoQuangKhiem_2031220025\TCPServer_Chat\TCPServer_Chat\obj\Debug\TCPServer_Chat.Properties.Resources.resources
+D:\cse306\lab2_NgoQuangKhiem_2031220025\TCPServer_Chat\TCPServer_Chat\obj\Debug\TCPServer_Chat.csproj.GenerateResource.cache
+D:\cse306\lab2_NgoQuangKhiem_2031220025\TCPServer_Chat\TCPServer_Chat\obj\Debug\TCPServer_Chat.csproj.CoreCompileInputs.cache
+D:\cse306\lab2_NgoQuangKhiem_2031220025\TCPServer_Chat\TCPServer_Chat\obj\Debug\TCPServer_Chat.exe
+D:\cse306\lab2_NgoQuangKhiem_2031220025\TCPServer_Chat\TCPServer_Chat\obj\Debug\TCPServer_Chat.pdb

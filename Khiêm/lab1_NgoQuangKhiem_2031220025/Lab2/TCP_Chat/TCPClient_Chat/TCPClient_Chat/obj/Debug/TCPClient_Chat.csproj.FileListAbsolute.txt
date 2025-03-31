@@ -1,0 +1,10 @@
+D:\cse306\lab2_NgoQuangKhiem_2031220025\TCPClient_Chat\TCPClient_Chat\bin\Debug\TCPClient_Chat.exe.config
+D:\cse306\lab2_NgoQuangKhiem_2031220025\TCPClient_Chat\TCPClient_Chat\bin\Debug\TCPClient_Chat.exe
+D:\cse306\lab2_NgoQuangKhiem_2031220025\TCPClient_Chat\TCPClient_Chat\bin\Debug\TCPClient_Chat.pdb
+D:\cse306\lab2_NgoQuangKhiem_2031220025\TCPClient_Chat\TCPClient_Chat\obj\Debug\TCPClient_Chat.csproj.AssemblyReference.cache
+D:\cse306\lab2_NgoQuangKhiem_2031220025\TCPClient_Chat\TCPClient_Chat\obj\Debug\TCPClient_Chat.Form1.resources
+D:\cse306\lab2_NgoQuangKhiem_2031220025\TCPClient_Chat\TCPClient_Chat\obj\Debug\TCPClient_Chat.Properties.Resources.resources
+D:\cse306\lab2_NgoQuangKhiem_2031220025\TCPClient_Chat\TCPClient_Chat\obj\Debug\TCPClient_Chat.csproj.GenerateResource.cache
+D:\cse306\lab2_NgoQuangKhiem_2031220025\TCPClient_Chat\TCPClient_Chat\obj\Debug\TCPClient_Chat.csproj.CoreCompileInputs.cache
+D:\cse306\lab2_NgoQuangKhiem_2031220025\TCPClient_Chat\TCPClient_Chat\obj\Debug\TCPClient_Chat.exe
+D:\cse306\lab2_NgoQuangKhiem_2031220025\TCPClient_Chat\TCPClient_Chat\obj\Debug\TCPClient_Chat.pdb

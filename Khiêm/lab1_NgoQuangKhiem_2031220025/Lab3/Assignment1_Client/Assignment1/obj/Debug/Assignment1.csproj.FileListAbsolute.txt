@@ -1,0 +1,10 @@
+D:\cse306\lab3_NgoQuangKhiem_2031220025\Assignment1_Client\Assignment1\bin\Debug\Assignment1.exe.config
+D:\cse306\lab3_NgoQuangKhiem_2031220025\Assignment1_Client\Assignment1\bin\Debug\Assignment1.exe
+D:\cse306\lab3_NgoQuangKhiem_2031220025\Assignment1_Client\Assignment1\bin\Debug\Assignment1.pdb
+D:\cse306\lab3_NgoQuangKhiem_2031220025\Assignment1_Client\Assignment1\obj\Debug\Assignment1.csproj.AssemblyReference.cache
+D:\cse306\lab3_NgoQuangKhiem_2031220025\Assignment1_Client\Assignment1\obj\Debug\Assignment1.Form1.resources
+D:\cse306\lab3_NgoQuangKhiem_2031220025\Assignment1_Client\Assignment1\obj\Debug\Assignment1.Properties.Resources.resources
+D:\cse306\lab3_NgoQuangKhiem_2031220025\Assignment1_Client\Assignment1\obj\Debug\Assignment1.csproj.GenerateResource.cache
+D:\cse306\lab3_NgoQuangKhiem_2031220025\Assignment1_Client\Assignment1\obj\Debug\Assignment1.csproj.CoreCompileInputs.cache
+D:\cse306\lab3_NgoQuangKhiem_2031220025\Assignment1_Client\Assignment1\obj\Debug\Assignment1.exe
+D:\cse306\lab3_NgoQuangKhiem_2031220025\Assignment1_Client\Assignment1\obj\Debug\Assignment1.pdb

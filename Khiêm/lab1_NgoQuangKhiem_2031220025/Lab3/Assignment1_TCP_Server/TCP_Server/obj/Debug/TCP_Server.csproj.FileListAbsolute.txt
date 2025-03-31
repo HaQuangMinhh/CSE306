@@ -1,0 +1,10 @@
+D:\cse306\lab3_NgoQuangKhiem_2031220025\TCP_Server\TCP_Server\bin\Debug\TCP_Server.exe.config
+D:\cse306\lab3_NgoQuangKhiem_2031220025\TCP_Server\TCP_Server\bin\Debug\TCP_Server.exe
+D:\cse306\lab3_NgoQuangKhiem_2031220025\TCP_Server\TCP_Server\bin\Debug\TCP_Server.pdb
+D:\cse306\lab3_NgoQuangKhiem_2031220025\TCP_Server\TCP_Server\obj\Debug\TCP_Server.csproj.AssemblyReference.cache
+D:\cse306\lab3_NgoQuangKhiem_2031220025\TCP_Server\TCP_Server\obj\Debug\TCP_Server.Form1.resources
+D:\cse306\lab3_NgoQuangKhiem_2031220025\TCP_Server\TCP_Server\obj\Debug\TCP_Server.Properties.Resources.resources
+D:\cse306\lab3_NgoQuangKhiem_2031220025\TCP_Server\TCP_Server\obj\Debug\TCP_Server.csproj.GenerateResource.cache
+D:\cse306\lab3_NgoQuangKhiem_2031220025\TCP_Server\TCP_Server\obj\Debug\TCP_Server.csproj.CoreCompileInputs.cache
+D:\cse306\lab3_NgoQuangKhiem_2031220025\TCP_Server\TCP_Server\obj\Debug\TCP_Server.exe
+D:\cse306\lab3_NgoQuangKhiem_2031220025\TCP_Server\TCP_Server\obj\Debug\TCP_Server.pdb

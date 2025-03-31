@@ -1,0 +1,10 @@
+D:\cse306\lab6_NgoQuangKhiem_2031220025\Assignment2_RSA\Assignment2_RSA\bin\Debug\Assignment2_RSA.exe.config
+D:\cse306\lab6_NgoQuangKhiem_2031220025\Assignment2_RSA\Assignment2_RSA\bin\Debug\Assignment2_RSA.exe
+D:\cse306\lab6_NgoQuangKhiem_2031220025\Assignment2_RSA\Assignment2_RSA\bin\Debug\Assignment2_RSA.pdb
+D:\cse306\lab6_NgoQuangKhiem_2031220025\Assignment2_RSA\Assignment2_RSA\obj\Debug\Assignment2_RSA.csproj.AssemblyReference.cache
+D:\cse306\lab6_NgoQuangKhiem_2031220025\Assignment2_RSA\Assignment2_RSA\obj\Debug\Assignment2_RSA.Form1.resources
+D:\cse306\lab6_NgoQuangKhiem_2031220025\Assignment2_RSA\Assignment2_RSA\obj\Debug\Assignment2_RSA.Properties.Resources.resources
+D:\cse306\lab6_NgoQuangKhiem_2031220025\Assignment2_RSA\Assignment2_RSA\obj\Debug\Assignment2_RSA.csproj.GenerateResource.cache
+D:\cse306\lab6_NgoQuangKhiem_2031220025\Assignment2_RSA\Assignment2_RSA\obj\Debug\Assignment2_RSA.csproj.CoreCompileInputs.cache
+D:\cse306\lab6_NgoQuangKhiem_2031220025\Assignment2_RSA\Assignment2_RSA\obj\Debug\Assignment2_RSA.exe
+D:\cse306\lab6_NgoQuangKhiem_2031220025\Assignment2_RSA\Assignment2_RSA\obj\Debug\Assignment2_RSA.pdb

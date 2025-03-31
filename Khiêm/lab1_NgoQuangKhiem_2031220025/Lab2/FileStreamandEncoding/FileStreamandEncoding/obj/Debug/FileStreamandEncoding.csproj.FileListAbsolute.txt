@@ -1,0 +1,10 @@
+D:\cse306\lab2\FileStreamandEncoding\FileStreamandEncoding\bin\Debug\FileStreamandEncoding.exe.config
+D:\cse306\lab2\FileStreamandEncoding\FileStreamandEncoding\bin\Debug\FileStreamandEncoding.exe
+D:\cse306\lab2\FileStreamandEncoding\FileStreamandEncoding\bin\Debug\FileStreamandEncoding.pdb
+D:\cse306\lab2\FileStreamandEncoding\FileStreamandEncoding\obj\Debug\FileStreamandEncoding.csproj.AssemblyReference.cache
+D:\cse306\lab2\FileStreamandEncoding\FileStreamandEncoding\obj\Debug\FileStreamandEncoding.Form1.resources
+D:\cse306\lab2\FileStreamandEncoding\FileStreamandEncoding\obj\Debug\FileStreamandEncoding.Properties.Resources.resources
+D:\cse306\lab2\FileStreamandEncoding\FileStreamandEncoding\obj\Debug\FileStreamandEncoding.csproj.GenerateResource.cache
+D:\cse306\lab2\FileStreamandEncoding\FileStreamandEncoding\obj\Debug\FileStreamandEncoding.csproj.CoreCompileInputs.cache
+D:\cse306\lab2\FileStreamandEncoding\FileStreamandEncoding\obj\Debug\FileStreamandEncoding.exe
+D:\cse306\lab2\FileStreamandEncoding\FileStreamandEncoding\obj\Debug\FileStreamandEncoding.pdb

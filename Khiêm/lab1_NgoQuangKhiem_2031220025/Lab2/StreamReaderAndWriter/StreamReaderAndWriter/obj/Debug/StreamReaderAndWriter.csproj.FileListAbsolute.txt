@@ -1,0 +1,10 @@
+D:\cse306\lab2\StreamReaderAndWriter\StreamReaderAndWriter\obj\Debug\StreamReaderAndWriter.csproj.AssemblyReference.cache
+D:\cse306\lab2\StreamReaderAndWriter\StreamReaderAndWriter\obj\Debug\StreamReaderAndWriter.btnSave.resources
+D:\cse306\lab2\StreamReaderAndWriter\StreamReaderAndWriter\obj\Debug\StreamReaderAndWriter.Properties.Resources.resources
+D:\cse306\lab2\StreamReaderAndWriter\StreamReaderAndWriter\obj\Debug\StreamReaderAndWriter.csproj.GenerateResource.cache
+D:\cse306\lab2\StreamReaderAndWriter\StreamReaderAndWriter\obj\Debug\StreamReaderAndWriter.csproj.CoreCompileInputs.cache
+D:\cse306\lab2\StreamReaderAndWriter\StreamReaderAndWriter\bin\Debug\StreamReaderAndWriter.exe.config
+D:\cse306\lab2\StreamReaderAndWriter\StreamReaderAndWriter\bin\Debug\StreamReaderAndWriter.exe
+D:\cse306\lab2\StreamReaderAndWriter\StreamReaderAndWriter\bin\Debug\StreamReaderAndWriter.pdb
+D:\cse306\lab2\StreamReaderAndWriter\StreamReaderAndWriter\obj\Debug\StreamReaderAndWriter.exe
+D:\cse306\lab2\StreamReaderAndWriter\StreamReaderAndWriter\obj\Debug\StreamReaderAndWriter.pdb

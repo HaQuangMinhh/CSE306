@@ -1,0 +1,10 @@
+D:\cse306\lab4_NgoQuangKhiem_2031220025\Assignmnet2\Assignmnet2\bin\Debug\Assignmnet2.exe.config
+D:\cse306\lab4_NgoQuangKhiem_2031220025\Assignmnet2\Assignmnet2\bin\Debug\Assignmnet2.exe
+D:\cse306\lab4_NgoQuangKhiem_2031220025\Assignmnet2\Assignmnet2\bin\Debug\Assignmnet2.pdb
+D:\cse306\lab4_NgoQuangKhiem_2031220025\Assignmnet2\Assignmnet2\obj\Debug\Assignmnet2.csproj.AssemblyReference.cache
+D:\cse306\lab4_NgoQuangKhiem_2031220025\Assignmnet2\Assignmnet2\obj\Debug\Assignmnet2.Form1.resources
+D:\cse306\lab4_NgoQuangKhiem_2031220025\Assignmnet2\Assignmnet2\obj\Debug\Assignmnet2.Properties.Resources.resources
+D:\cse306\lab4_NgoQuangKhiem_2031220025\Assignmnet2\Assignmnet2\obj\Debug\Assignmnet2.csproj.GenerateResource.cache
+D:\cse306\lab4_NgoQuangKhiem_2031220025\Assignmnet2\Assignmnet2\obj\Debug\Assignmnet2.csproj.CoreCompileInputs.cache
+D:\cse306\lab4_NgoQuangKhiem_2031220025\Assignmnet2\Assignmnet2\obj\Debug\Assignmnet2.exe
+D:\cse306\lab4_NgoQuangKhiem_2031220025\Assignmnet2\Assignmnet2\obj\Debug\Assignmnet2.pdb
